@@ -1,0 +1,41 @@
+**/build
+.gradle
+/local.properties
+dump.txt
+
+# Ignore local gem cache
+gems
+
+# IDEA/Android Studio ignores
+*.iml
+*.ipr
+*.iws
+**.idea/codeStyles/Project.xml
+**/.idea/dbnavigator.xml
+**/.idea/workspace.xml
+**/.idea/compiler.xml
+**/.idea/.name
+**/.idea/tasks.xml
+**/.idea/datasources.xml
+**/.idea/dataSources.ids
+**/.idea/gradle.xml
+**/.idea/misc.xml
+**/.idea/modules.xml
+**/.idea/libraries
+**/.idea/dictionaries
+**/.idea/copyright
+**/.idea/runConfigurations.xml
+**/.idea/vcs.xml
+**/.idea/scopes
+**/.idea/caches
+*/.idea
+**/.idea/gradle_extensions.xml
+**/.idea/markdown*.xml
+**/.idea/markdown-navigator/**
+**/.idea/assetWizardSettings.xml
+.java-version
+.navigation
+captures
+
+# Mac OS junk
+.DS_Store
